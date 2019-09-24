@@ -10,3 +10,5 @@ Tiny programs to try out ncurses terminal library.
 Each subfolder contains a Makefile that will generate an executable binary.
 
 A Linux system with ncurses development library is needed.
+
+![alt text](cellular-automaton/glider-gun.gif)
