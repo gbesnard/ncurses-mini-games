@@ -1,0 +1,5 @@
+*.o
+cellular-automaton/cellular_automaton
+moon-landing/moon_landing
+rain-code/rain_code
+snake/snake
